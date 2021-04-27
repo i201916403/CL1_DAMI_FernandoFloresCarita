@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GrupoLunes01</string>
+    <string name="txt_registro_de_alumno">Registro de Alumno</string>
+    <string name="txt_registro_de_autor">Registro de Autor</string>
+    <string name="txt_registro_de_editorial">Registro de Editorial</string>
+    <string name="txt_registro_de_libro">Registro de Libro</string>
+    <string name="txt_grupo_01">Grupo 01</string>
+    <string name="txt_registro_de_proveedor">Registro de Proveedor</string>
+    <string name="txt_registro_de_sala">Registro de Sala</string>
+    <string name="txt_registro_de_usuario">Registro de Usuario</string>
+    <string name="txt_menu">Menú</string>
+    <string name="txt_menu_alumno">Alumno</string>
+    <string name="txt_menu_autor">Autor</string>
+    <string name="txt_menu_libro">Libro</string>
+    <string name="txt_menu_proveedor">Proveedor</string>
+    <string name="txt_menu_sala">Sala</string>
+    <string name="txt_menu_usuario">Usuario</string>
+    <string name="txt_menu_editorial">Editorial</string>
+</resources>

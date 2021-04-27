@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/idMantenimeinto" android:title="@string/txt_menu" />
+    <item android:id="@+id/idAlumno" android:title="@string/txt_menu_alumno" />
+    <item android:id="@+id/idAutor" android:title="@string/txt_menu_autor"/>
+    <item android:id="@+id/idLibro" android:title="@string/txt_menu_libro" />
+    <item android:id="@+id/idProveedor" android:title="@string/txt_menu_proveedor" />
+    <item android:id="@+id/idSala" android:title="@string/txt_menu_sala" />
+    <item android:id="@+id/idUsuario" android:title="@string/txt_menu_usuario" />v
+    <item android:id="@+id/idEditorial" android:title="@string/txt_menu_editorial" />
+
+</menu>
