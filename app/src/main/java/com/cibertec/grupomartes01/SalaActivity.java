@@ -8,6 +8,10 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 
+/*
+ Lizet Ortiz
+*/
+
 public class SalaActivity extends AppCompatActivity {
 
     @Override
