@@ -22,8 +22,8 @@
 
         <EditText
             android:id="@+id/txtnombre"
-            android:layout_width="320dp"
-            android:layout_height="46dp"
+            android:layout_width="369dp"
+            android:layout_height="38dp"
             android:layout_marginTop="28dp"
             android:ems="10"
             android:hint="Ingrese nombre"
