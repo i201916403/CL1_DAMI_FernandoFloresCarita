@@ -18,6 +18,7 @@ import com.cibertec.grupomartes01.entity.Alumno;
 
 public class AlumnoActivity extends AppCompatActivity {
 
+
     EditText nombre,apellido,dni,correo,fechanac,fechareg;
     Button btnregis;
 
